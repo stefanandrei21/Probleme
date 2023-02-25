@@ -6,6 +6,22 @@
 using namespace std;
 
 
+// ex [7, 1, 5, 3, 6, 4]
+/*
+    min = 7;
+    profit = 0
+....
+    min = 2;
+    profit = 0
+
+...
+    min = 2;
+    profit = 4
+
+    .. etc
+
+*/
+
 int main()            
 {
 
